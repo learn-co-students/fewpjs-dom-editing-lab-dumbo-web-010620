@@ -126,7 +126,7 @@ bits of text to the paragraph to make it stand out a little.
 ```
 
 Save the file and check out the page in the 'Elements' tab.  What's happening
-above is that we added some inline elements, `<strong>` and `<em>` to our
+above is that we added some inline elements, `<strong>` and `<em>` to ourn 
 paragraph to style things a little. The `<strong>` tag makes any text within
 look **important**. It's usually bold in browsers by default. The `<em>` tag
 allows us to _emphasize_ certain text. This text is typically rendered as
